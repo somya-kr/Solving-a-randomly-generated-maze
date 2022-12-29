@@ -24,6 +24,8 @@ Finding a route between **start point**(126,19) and the **end point**(257,183) o
 3. [Depth First Search](https://drive.google.com/file/d/1I7CYoaMq3wa-1ihh9otayP_nQrioL02l/view)
 4. [Breadth First Search](https://drive.google.com/file/d/1ENVpW2L9yntk7nHxAh4hIGIJKrZ76mHH/view)
 5. [A* Algorithm](https://drive.google.com/file/d/1JoEXrD14GLxgjZloqkaOjqzOMUg40Eed/view)
+- Some snapshots:
+![Screenshot from 2022-12-29 11-14-05](https://user-images.githubusercontent.com/100329968/209908380-99073359-2692-44ab-a4d0-418a3e75e2e2.png)
 
 
 ### Presentation Link:
