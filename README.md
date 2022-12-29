@@ -12,6 +12,7 @@ Using path finding algorithms to find a path between two points on a randomly ge
 4. [Breadth First Search](https://drive.google.com/file/d/1ftRGQB5IvUtlaoP0nXN_le71Us9tdu5V/view)
 5. [A* Algorithm](https://drive.google.com/file/d/1-POaKRuBWTw0sOFrRIT7ohHA7QbmRxDL/view)
 ### Path finding on a map
+Finding a route between **start point**(126,19) and the **end point**(257,183) on the given map(276x431).
 ![map](https://user-images.githubusercontent.com/100329968/209906908-544052e3-d46d-458a-864f-18e604f48588.png)
 - Output video links:
 
